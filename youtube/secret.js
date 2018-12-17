@@ -1,0 +1,2 @@
+googleClientId = '';
+googleApiKey = '';
